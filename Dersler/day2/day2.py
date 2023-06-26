@@ -159,3 +159,4 @@ fonk2 = calculatePriceAndReturn(300,100)
 print(f"159.satır + {fonk1}")
 print(f"160.satır + {fonk2+100}")
 print("*************************************")
+
