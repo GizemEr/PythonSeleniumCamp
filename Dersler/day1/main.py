@@ -113,6 +113,3 @@ else:
     print("Sayi1 sayi2'den büyüktür.")
 
 print("Burası if bloğunun dışıdır.")
-
-
-
